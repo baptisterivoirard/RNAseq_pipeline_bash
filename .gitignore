@@ -1,0 +1,9 @@
+*.fastq
+*.bam
+*.sam
+*.gz
+*.zip
+*.ht2
+*.gtf
+HISAT2/
+data/
